@@ -45,8 +45,6 @@ para utiliziar o projeto, basta fazer o clone do repositório.
 
 
 
- 
-
 
 
 ## 🚀 Sobre mim
