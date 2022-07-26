@@ -1,3 +1,15 @@
 https://docs.oracle.com/en/java/javase/11/docs/api/java.net.http/java/net/http/HttpRequest.html
 
 https://regex101.com/ 
+
+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
+
+
+        //Properties prop = new Properties();
+        //String arquivo = "./dados.properties";
+       // prop.load(new FileInputStream(arquivo));
+        //var chave = prop.getProperty("chave");       
+        //String url = "https://imdb-api.com/en/API/Top250Movies/" + chave;
+
+       //String url = "https://alura-imdb-api.herokuapp.com/movies";  
+      // ExtratorDeConteudoDoImdb extrator = new ExtratorDeConteudoDoImdb();

@@ -7,7 +7,7 @@ import java.net.http.HttpResponse.BodyHandlers;
 
 
 
-public class CleintHttp {
+public class ClientHttp {
     
     public String buscaDados(String url){
 
